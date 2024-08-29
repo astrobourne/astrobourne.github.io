@@ -3490,7 +3490,7 @@ input, select, textarea {
 			width: 50%;
 		}
 
-		.overlay-text {
+		.banner.style1 .image .overlay-text {
 			position: absolute;
 			top: 100%; 
 			left: 100%; 
